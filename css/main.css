@@ -242,11 +242,11 @@ main {
 }
 
 .javascript::after {
-  right: 35px;
+  right: 14px;
 }
 
 .python::after {
-  right: 37px;
+  right: 20px;
 }
 
 .kazakh::after {
